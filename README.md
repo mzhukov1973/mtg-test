@@ -5,7 +5,7 @@
 #### To test:
 ```git clone https://github.com/mzhukov1973/mtg-test.git```
 
-```npm install```
+```yarn install```
 
-```npm start```
+```yarn start```
 
